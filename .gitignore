@@ -27,3 +27,5 @@ build/
 
 # Dependency directories
 .depend/
+
+*.json
